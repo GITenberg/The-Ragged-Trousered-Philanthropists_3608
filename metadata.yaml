@@ -1,0 +1,43 @@
+_repo: The-Ragged-Trousered-Philanthropists_3608
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tressell, Robert
+    aliases:
+    - Noonan, Robert
+    - Tressel, Robert
+    - Tressall, Robert
+    birthdate: 1870
+    deathdate: 1911
+    gutenberg_agent_id: '1236'
+    url: http://www.gutenberg.org/2009/agents/1236
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Tressell
+description: "The Ragged-Trousered Philanthropists is a novel by Robert Tressell first\
+  \ published in 1914 after his death in 1911. An explicitly political work, it is\
+  \ widely regarded as a classic of working-class literature. It was placed seventy-second\
+  \ in the 2003 The Big Read survey conducted by the BBC.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2003-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3608'
+  wikidata: Q7759270
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Fiction'
+- !lcsh 'Working class families -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Social conflict -- Fiction'
+- !lcsh 'Political fiction'
+- !lcsh 'Capitalism -- Fiction'
+- !lcsh 'Social classes -- Fiction'
+- !lcsh 'Socialists -- Fiction'
+- !lcsh 'Working class -- Fiction'
+- !lcsh 'Labor movement -- Fiction'
+- GITenberg
+title: The Ragged Trousered Philanthropists
+url: http://www.gutenberg.org/ebooks/3608
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Ragged-Trousered_Philanthropists
