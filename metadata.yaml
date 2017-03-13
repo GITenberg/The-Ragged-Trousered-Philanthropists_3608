@@ -1,5 +1,8 @@
 _repo: The-Ragged-Trousered-Philanthropists_3608
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Tressell, Robert
@@ -16,6 +19,8 @@ description: "The Ragged-Trousered Philanthropists is a novel by Robert Tressell
   \ published in 1914 after his death in 1911. An explicitly political work, it is\
   \ widely regarded as a classic of working-class literature. It was placed seventy-second\
   \ in the 2003 The Big Read survey conducted by the BBC.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3608#The-Ragged-Trousered-Philanthropists
 gutenberg_issued: '2003-01-01'
 gutenberg_type: Text
 identifiers:
